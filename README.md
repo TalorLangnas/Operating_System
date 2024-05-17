@@ -1,6 +1,10 @@
 # Operating System Course
+> Welcome to the repository for assignments in the University Operating System course! <br />
+>  This repository serves as a central hub for all the assignments completed throughout the course.
 
-Welcome to the repository for assignments in the University Operating System course! This repository serves as a central hub for all the assignments completed throughout the course.
+### *Course Description:*
+The Operating Systems course focuses on system programming using the C language in a Unix environment, emphasizing practical skills and concepts.
+
 
 ## Assignments Overview
 
